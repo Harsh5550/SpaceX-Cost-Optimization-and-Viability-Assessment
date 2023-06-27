@@ -1,4 +1,4 @@
-# IBM-Watson-Studio-Project
+# SpaceX Cost Optimization and Viability Assessment
 
 The focus of this study is to analyze and understand the necessary conditions and logistics employed by SpaceX for the successful launch and landing of the Falcon 9 First Stage booster at a remarkably low budget of only US $65 million. The insights gained from this analysis will then be used to assist the upcoming space agency, SpaceY, in cost-saving measures and enhancing their competitiveness in the market.
 
